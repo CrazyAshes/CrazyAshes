@@ -122,7 +122,7 @@ As the founder of **WAVE**, an underwater drone project for water-quality monito
 <a href="https://github.com/CrazyAshes">
   <img src="https://img.shields.io/badge/GitHub-CrazyAshes-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:CrazyAshes@users.noreply.github.com">
+<a href="mailto:yuyin.liu@139.com">
   <img src="https://img.shields.io/badge/Email-CrazyAshes%40users.noreply.github.com-667eea?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
