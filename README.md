@@ -80,53 +80,6 @@ As the founder of **WAVE**, an underwater drone project for water-quality monito
 
 <div align="center">
 
-## GitHub Statistics
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CrazyAshes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyAshes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Streak
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=CrazyAshes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Graph
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyAshes&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyAshes&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyAshes&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CrazyAshes&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CrazyAshes&theme=tokyonight&utcOffset=8"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Featured Interests
 
 </div>
