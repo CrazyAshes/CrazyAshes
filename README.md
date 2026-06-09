@@ -27,7 +27,7 @@ I'm a student developer and entrepreneur who turns ideas into products with real
 ## Featured Project
 
 **WAVE** — an underwater drone for water-quality monitoring.
-Founder. Combining research, engineering, and product thinking to solve meaningful environmental problems.
+Founder. Combining research, engineering, and product thinking to solve meaningful environmental problems. Website: www.waveunderwater.com
 
 ## Current Focus
 
