@@ -1,19 +1,33 @@
+<div align="center">
+
 # Yuyin Liu
 
 **Student Developer · Entrepreneur · Builder**
 
-Beijing, China — Beijing Haidian Kaiwen Academy
+Beijing, China
 
 [![GitHub](https://img.shields.io/badge/GitHub-CrazyAshes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CrazyAshes)
 [![Email](https://img.shields.io/badge/Email-yuyin.liu%40139.com-0A66C2?style=flat-square&logo=maildotru&logoColor=white)](mailto:yuyin.liu@139.com)
+
+</div>
 
 ---
 
 ## About
 
-I'm a student developer and entrepreneur who turns ideas into products with real-world impact.
+I'm a student developer and entrepreneur who turns ideas into products with real-world impact. I work across AI, mobile, and robotics, with a focus on technology that serves people.
 
-As the founder of **WAVE** — an underwater drone for water-quality monitoring — I combine research, engineering, and product thinking to solve meaningful problems. I work across AI, mobile, and robotics, with a focus on technology that serves people.
+## Education
+
+| Year | Institution |
+|:----:|:------------|
+| **Class of 2030** | The Hong Kong University of Science and Technology — *Incoming* |
+| **Class of 2026** | Beijing Haidian Kaiwen Academy — *High School* |
+
+## Featured Project
+
+**WAVE** — an underwater drone for water-quality monitoring.
+Founder. Combining research, engineering, and product thinking to solve meaningful environmental problems.
 
 ## Current Focus
 
@@ -38,4 +52,8 @@ Artificial Intelligence · Robotics · Software Engineering · Educational Techn
 
 ---
 
+<div align="center">
+
 <sub>Build things that matter. Learn continuously. Share what you discover.</sub>
+
+</div>
